@@ -23,5 +23,9 @@ const c=()=>{
     
 }
 
+const f=()=>{
+    return 4;
+}
+
 
 
