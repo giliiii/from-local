@@ -10,3 +10,6 @@ alert(5)
 
 }
 
+const e=()=>{
+    alert("e")
+}
